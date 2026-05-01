@@ -1,5 +1,9 @@
 # Data Science Course Project
 ## Video Game Sales Analysis & Web Scraping Domain Analysis
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
